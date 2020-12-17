@@ -61,6 +61,8 @@ def trunk():
     for i in range(nb_branch):
         print(" " * nb_blank, "*" * star_top)
         
-branch1(), branch2(), branch3() , trunk()
+# Main function to start the program.        
+def main():
+    branch1(), branch2(), branch3() , trunk()
 
-
+main()

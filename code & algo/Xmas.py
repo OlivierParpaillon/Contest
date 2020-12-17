@@ -50,7 +50,11 @@ def branch3():
         nb_blank -= 3
         star_top += 6
         
-branch1(), branch2(), branch3()
+# Main function to start the program.        
+def main():
+    branch1(), branch2(), branch3()
+
+main()
 
 
 
