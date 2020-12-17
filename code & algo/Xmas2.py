@@ -50,7 +50,17 @@ def branch3():
         nb_blank -= 3
         star_top += 6
         
-branch1(), branch2(), branch3()
+# We generate the trunk of the tree. We use the same variables but we don't modificate the blanks spaces and the number of stars.
 
+def trunk():
+
+    nb_blank = 13
+    star_top = 5
+    nb_branch = 3
+
+    for i in range(nb_branch):
+        print(" " * nb_blank, "*" * star_top)
+        
+branch1(), branch2(), branch3() , trunk()
 
 
