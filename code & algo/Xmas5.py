@@ -1,13 +1,28 @@
 # -*- coding:latin1 -*
 
 """
-    Contest project 1 : Christmas Tree part.4
+    Contest project 1 : Christmas Tree part.5
     Olivier PARPAILLON
     Iliass RAMI
     17/12/2020
     python 3.7.7
 """
 # Python program to generate branch christmas tree. We split the tree in 3 branches.
+
+# Every christmas tree needs his super star of the dead so here we are :
+
+def super_star_of_the_dead():
+    
+    nb_blank = 10
+    a = " " * 16
+    
+    print(" " * nb_blank, "*", " " * 2, "*", " " * 2, "*")
+    print(" " * 12, "*", " " + "*" + " ", "*")
+    print(a + "*")
+    print(" " * nb_blank, "* " *6)
+    print(a + "*")
+    print(" " * 12, "*", " " + "*" + " ", "*")
+    print(" " * nb_blank, "*", " " * 2, "*", " " * 2, "*")
 
 # We generate the first branch of the christmas tree : branch1. We will use the same variables for the whole code : only values will change.
 # nb_blank represents the number of blanks between the "*" ; star_top represents the number of "*" on the top of the tree ; 
@@ -26,6 +41,7 @@ def branch1():
 
 # We generate the middle branch of the christmas tree. Same variables but we add 4 to star_top and we remove 2 from nb_blank
 # We add Christmas balls in this branch : the first line of the branch is modified.
+
 def branch2():
 
     nb_blank = 12
@@ -41,6 +57,7 @@ def branch2():
 
 # We generate the last branch of the christmas tree. We use the same variables but we remove 3 from nb_blank and we add 6 to star_top
 # We add Christmas balls in this branch too : the first line of the branch is modified
+
 def branch3():
 
     nb_blank = 10
@@ -82,8 +99,9 @@ def trunk():
         
 # Main function to start the program.        
 def main():
-    branch1(), branch2(), branch3() , ornament(), trunk()
+    super_star_of_the_dead(), branch1(), branch2(), branch3() , ornament(), trunk()
 
 main()
+
 
 
