@@ -1,10 +1,10 @@
 # Contest
 
-Travail réalisé par Olivier Parpaillon & Ilias Rami.
+Travail réalisé par Olivier Parpaillon & Iliass Rami.
 
 ## Présentation
 
-Veuillez prendre en compte le fait que mon binôme (Ilias Rami), du à des problèmes de santé, à du arrêté hier soir plus tôt pour pouvoir aller à l'hôpital et n'a pas pu continuer aujourd'hui. Cela ne lui a pas empêché de faire une grosse partie du boulot. Encore merci à lui pour cette détermination.
+Veuillez prendre en compte le fait que mon binôme (Ilias Rami), du à des problèmes de santé, à du arrêté hier soir plus tôt pour pouvoir aller à l'hôpital, pour une opération (cela à était vu avec Mme SIMONNET Bonnie) et n'a pas pu continuer aujourd'hui. Cela ne lui a pas empêché de faire une grosse partie du boulot. Encore merci à lui pour cette détermination.
 
 Dans le fichier [Rendu](Rendu/) vous pourrez retrouver toute la documentation pour créer et configurer PFSense, une machine virtuelle windows 10 et une installation de Git. Le Proof of Concept de du bon fonctionnement de l'infra et le proof on concept des push des fichiers vers le repository privé.
 
