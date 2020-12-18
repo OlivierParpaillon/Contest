@@ -34,3 +34,20 @@ Et tout les fichiers de l'algo étape par étape aussi :
 - [Partie 4 algorithme](code_and_algo/algo_xmastree_level4.txt)
 
 - [Partie 5 algorithme](code_and_algo/algo_xmastree_level5.txt)
+
+
+## Rendu
+
+Dans ce fichier vous trouverez tout les documents demandé avec chaque étape de la mise en place de l'infra et les proof of concept demandés.
+
+Voici la documentation, en pdf, pour la création des cartes réseaux virtuel sous VMware, la machine virtuelle windows 10, l'installation et la configuration de PFSense en machine virtuelle et l'installation de Git sur une machine virtuelle :
+
+- [Documentation technique](Rendu/Rendu_Git_Privee.pdf)
+
+Voici le proof of concept de mon infrastructure, j'ai prouvé le fonctionnement de mon infra à travers différent ping en fonction de mes choix de configuration par question de sécurité :
+
+- [Proof of Concept infrastructure](Rendu/Proof_Of_Concept_Infra.pdf)
+
+Et voici le dernier proof of concept, celui qui montre le bon fonctionnement de Git après l'avoir installé, et que les fichiers soient bien envoyé vers le repository privé :
+
+- [Proof of Concept repository privé](Rendu/POC_push_git_pv.pdf)
