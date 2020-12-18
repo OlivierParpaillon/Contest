@@ -53,3 +53,9 @@ Voici le proof of concept de mon infrastructure, j'ai prouvé le fonctionnement 
 Et voici le dernier proof of concept, celui qui montre le bon fonctionnement de Git après l'avoir installé, et que les fichiers soient bien envoyé vers le repository privé :
 
 - [Proof of Concept repository privé](Rendu/POC_push_git_pv.pdf)
+
+## Bonus
+
+Voici ce que j'ai essayé de faire avec Azure et la machine virtuelle :
+
+- [Bonus VM Azure](Bonus/VM_azur.pdf)
