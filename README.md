@@ -11,7 +11,7 @@ Dans le fichier [Rendu](Rendu/) vous pourrez retrouver toute la documentation po
 Dans le fichier [code & algo](code_and_algo/) vous retrouverez tout les programmes étapes par étapes en python et en algorithme pour le magnifique sapin de Noël !
 
 
-## Code & Algo
+## [Code & Algo](code_and_algo/)
 
 Dans ce dernier vous retrouverez donc tout les fichiers étape par étape du code en question :
 
@@ -38,7 +38,7 @@ Et tout les fichiers de l'algo étape par étape aussi :
 - [Partie 5 algorithme](code_and_algo/algo_xmastree_level5.txt)
 
 
-## Rendu
+## [Rendu](Rendu/)
 
 Dans ce fichier vous trouverez tout les documents demandé avec chaque étape de la mise en place de l'infra et les proof of concept demandés.
 
@@ -54,7 +54,7 @@ Et voici le dernier proof of concept, celui qui montre le bon fonctionnement de 
 
 - [Proof of Concept repository privé](Rendu/POC_push_git_pv.pdf)
 
-## Bonus
+## [Bonus](Bonus/)
 
 Voici ce que j'ai essayé de faire avec Azure et la machine virtuelle :
 
